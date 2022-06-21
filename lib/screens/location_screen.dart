@@ -3,7 +3,7 @@ import 'package:weather_app_1/utilities/constants.dart';
 import 'package:weather_app_1/screens/location_screen.dart';
 
 class LocationScreen extends StatefulWidget {
-  
+
   LocationScreen({this.locationWeather});
 
   late final locationWeather;
@@ -55,7 +55,7 @@ class _LocationScreenState extends State<LocationScreen> {
                 child: Row(
                   children: <Widget>[
                     Text(
-                      '32°',
+                      '31°',
                       style: kTempTextStyle,
                     ),
                     Text(
@@ -68,7 +68,7 @@ class _LocationScreenState extends State<LocationScreen> {
               Padding(
                 padding: EdgeInsets.only(right: 15.0),
                 child: Text(
-                  "It's 🍦 time in San Francisco!",
+                  "It's 🍦 time in Lviv!",
                   textAlign: TextAlign.right,
                   style: kMessageTextStyle,
                 ),

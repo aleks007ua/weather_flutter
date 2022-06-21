@@ -1,0 +1,4 @@
+#Wed Jun 08 12:52:46 EEST 2022
+base.0=C\:\\Users\\jenre\\Documents\\Dart\\weather_app_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
